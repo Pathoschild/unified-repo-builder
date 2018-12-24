@@ -1,0 +1,4 @@
+## This file contains a list of GitHub repositories to fetch into the solution folder.
+## Each line should contain a repository name (like 'owner/repo-name').
+## Blank lines, or those starting with #, are ignored.
+
